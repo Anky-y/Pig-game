@@ -120,6 +120,7 @@ textarea::-webkit-input-placeholder {
   background-color: rgba(255, 255, 255, 0.6);
   box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
   cursor: default;
+  text-transform: uppercase;
 }
 
 .btn {
